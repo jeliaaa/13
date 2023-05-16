@@ -1,0 +1,8 @@
+.navbar{
+    width: 100%;
+    z-index: 2;
+    display: block;
+}
+.navbar-nav .nav-item .nav-link{
+    color: #007bff;
+}
